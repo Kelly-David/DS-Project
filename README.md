@@ -1,19 +1,19 @@
 # DS-Project
 Data Science Group Project: Crime Analytics &amp; Prediction  in Chicago
 
-### Models
+## Models
 #### Decision Tree
 #### KNN
 #### Naive Bayes
 #### Neural Net
 #### Random Tree
 
-### Contributors 
+## Contributors 
 Ger Dobbs 	  
 Karl Redmond 	         
 David Kelly  
 
-### Lecturer
+## Lecturer
 Greg Doyle 	
 
 
